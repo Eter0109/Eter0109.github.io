@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ziyue ZHAO(赵子悦)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An Idealist."
+  location         : "ShenZhen,China"
+  employer         : "Southern University of Science and Technology(Sustech)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "12212206@mail.sustech.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
