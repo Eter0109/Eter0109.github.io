@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student in [Southern University of Science and Technology](https://www.sustech.edu.cn), China. At present, I am conducting research in [SUSTech Lab for Intelligent Sensing and Unmanned Systems](https://github.com/sustech-isus) under the supervision of Professor Qi Hao and Dr. Gongjin Lan. My primary research interests are End-to-end autonomous driving, Occupancy network and Reinforcement learning. Here is my Resume.
+I'm an undergraduate student in [Southern University of Science and Technology](https://www.sustech.edu.cn), China. At present, I am conducting research in [SUSTech Lab for Intelligent Sensing and Unmanned Systems](https://github.com/sustech-isus) under the supervision of Professor [Qi Hao](https://cse.sustech.edu.cn/faculty/~haoq/) and [Dr. Gongjin Lan](https://faculty.sustech.edu.cn/?tagid=langj&iscss=1&snapid=1&orderby=date&go=2). My primary research interests are End-to-end autonomous driving, Occupancy network and Reinforcement learning. Here is my Resume.
 
 Current research
 ------
