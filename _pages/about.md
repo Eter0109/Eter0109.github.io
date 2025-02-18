@@ -16,10 +16,14 @@ Current research
 News and Updates
 ------
 
+Education Background
+-------
+Since 2022-09, Undergraduate student of SUSTech
+
 Awards
 ------
-- The 2023 China Colleginate Programming Contest(CCPC), Gold Medal.
-- The 2023 ICPC Asia Hefei Regional Contest, Gold Medal.
-- The 2023 ICPC Asia-East Continent Final Contest, Bronze Medal.
-- Excellent Student Scholarship(2023, 2024).
+- The 2023 China Colleginate Programming Contest(CCPC), Gold Medal
+- The 2023 ICPC Asia Hefei Regional Contest, Gold Medal
+- The 2023 ICPC Asia-East Continent Final Contest, Bronze Medal
+- Excellent Student Scholarship(2023, 2024)
 
